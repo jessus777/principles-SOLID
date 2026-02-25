@@ -1,3 +1,5 @@
 <Solution>
   <Folder Name="/src/" />
+  <Folder Name="/src/AntiPatterns/" />
+  <Folder Name="/src/Refactored/" />
 </Solution>
