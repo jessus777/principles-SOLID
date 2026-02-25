@@ -1,5 +1,14 @@
 <Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path=".gitignore" />
+  </Folder>
   <Folder Name="/src/" />
-  <Folder Name="/src/AntiPatterns/" />
+  <Folder Name="/src/AntiPatterns/">
+    <Project Path="OrderService/OrderService.csproj" />
+  </Folder>
   <Folder Name="/src/Refactored/" />
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/AntiPatternsTest/">
+    <Project Path="OrderServiceBadTest/OrderServiceBadTest.csproj" />
+  </Folder>
 </Solution>
